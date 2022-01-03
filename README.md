@@ -1,3 +1,3 @@
 - 👋 Hi, I’m GeonHu
 - 👀 I’m interested in Programing 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Python
